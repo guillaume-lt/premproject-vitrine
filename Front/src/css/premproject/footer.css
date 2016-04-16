@@ -1,0 +1,55 @@
+.footer {
+	margin: 0 auto;
+	
+}
+
+.footer_title {
+	font-size: 25px;
+	font-family: 'Gotham', sans-serif;
+	font-weight: 500;
+	color: #40D47E;
+}
+
+.f_right {
+	text-align: right;
+}
+
+.f_center {
+	text-align: center;
+}
+
+.footer_nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+.footer_nav ul li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	font-family: 'Gotham', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	color: #0C0C0C;
+}
+
+.footer_nav ul li a {
+	color: #0C0C0C;
+	text-decoration: none;
+	transition: all 200ms linear;
+}
+
+.footer_nav ul li a:hover {
+	color: #40D47E;
+}
+
+.footer_copyright {
+	font-family: 'Gotham', sans-serif;
+	font-weight: 300;
+	font-size: 12px;
+	color: #9B9B9B;
+	opacity: 0.8;
+	text-align:center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}

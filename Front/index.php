@@ -20,8 +20,10 @@ else
 	$page = '404';
 
 // Includes
+
 include 'controllers/'.$page.'.php';
 include 'controllers/links.php';
+include 'views/partials/head.php';
 include 'views/partials/header.php';
 include 'views/pages/'.$page.'.php';
 include 'views/partials/footer.php';

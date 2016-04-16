@@ -1,0 +1,22 @@
+.mentions_legales {
+	background-color: #F6F6F6;
+	padding-bottom: 50px;
+	padding-top: 35px;
+}
+
+.mt_lg h2 {
+	font-size: 28px;
+	font-family: 'Gotham', sans-serif;
+	font-weight: 500;
+	color: #40D47E;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.mt_lg p {
+	font-size: 14px;
+	font-family: 'Gotham', sans-serif;
+	font-weight: 300;
+	color: #0C0C0C;
+	opacity: 0.8
+}

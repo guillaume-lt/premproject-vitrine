@@ -1,0 +1,49 @@
+.container {
+	width: calc(100vw - 40px);
+	margin: 0 auto;
+}
+
+.content {
+	width: 85%;
+	margin: 0 auto;
+}
+
+::-webkit-input-placeholder {
+    color: #F1F1F1;
+}
+:-moz-placeholder {
+   color: #F1F1F1;
+   opacity:  1;
+}
+::-moz-placeholder {
+   color: #F1F1F1;
+   opacity:  1;
+}
+:-ms-input-placeholder {
+   color: #F1F1F1;
+}
+
+input[type=checkbox] { 
+	display:none; 
+}
+
+input[type=checkbox] + label:before {
+  font-family: FontAwesome;
+  display: inline-block;
+}
+
+input[type=checkbox] + label:before { 
+	content: "\f096"; 
+}
+
+input[type=checkbox] + label:before { 
+	letter-spacing: 10px; 
+}
+
+input[type=checkbox]:checked + label:before {
+ content: "\f046"; 
+}
+
+input[type=checkbox]:checked + label:before { letter-spacing: 5px; 
+}
+

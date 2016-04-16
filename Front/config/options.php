@@ -1,3 +1,3 @@
 <?php
 
-define('URL','http://commit.guillaumelebelt.fr/prem/');
+define('URL','http://localhost:8888/premproject-vitrine/Front/');

@@ -1,3 +1,4 @@
+</div> <!-- Container gradient end -->
     <div class="container mentions_legales">
     	<div class="content">
     		<div class="row">

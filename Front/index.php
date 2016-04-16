@@ -8,10 +8,12 @@ $q = empty($_GET['q']) ? '' : $_GET['q'];
 // Routes
 if($q == '')
 	$page = 'home';
-else if($q == 'mentionslegales')
+else if($q == 'mentions-legales')
 	$page = 'mentionslegales';
 else if($q == 'cgv')
 	$page = 'cgv';
+else if($q == 'login')
+	$page = 'login';
 else
 	$page = '404';
 

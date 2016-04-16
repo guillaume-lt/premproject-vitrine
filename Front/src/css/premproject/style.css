@@ -44,10 +44,13 @@ font-style: normal;
 }
 
 .header {
-	background-image: url('../../images/section_img/legal.jpg');
+	background-image:linear-gradient(to bottom right, rgba(64,212,126,0.7), rgba(52,138,157,0.7)), url('../../images/section_img/legal.jpg');
+	background-image: -webkit-linear-gradient(to bottom right, rgba(64,212,126,0.7), rgba(52,138,157,0.7)),  url('../../images/section_img/legal.jpg');
+	background-image: -o-linear-gradient(to bottom right, rgba(64,212,126,0.7), rgba(52,138,157,0.7)), url('../../images/section_img/legal.jpg');
+	background-image: -moz-linear-gradient(to bottom right, rgba(64,212,126,0.7), rgba(52,138,157,0.7))  url('../../images/section_img/legal.jpg');
 	background-position: bottom;
 	background-size: cover;
-	height: 50vh;
+	height: auto;
 	margin-top: 20px;
 	padding: 0;
 }
@@ -101,18 +104,27 @@ font-style: normal;
 
 .page_title {
     position: relative;
-    padding: 0 !important;
-    height: 15%;
-    top: 55%;
-    transform: translateY(-50%);
     text-align: center;
     font-family: 'GothamMedium', sans-serif;
     font-size: 30px;
     color: #F1F1F1;
-    border-bottom: 4px solid #F1F1F1;
     display: block;
     width: 30%;
     margin: 0 auto;
+}
+
+
+.page_title:after {
+    content:'';
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: #F1F1F1;
+}
+
+.title_section {
+	padding: 170px 0px;
 }
 
 .navbar-default {
@@ -234,12 +246,9 @@ font-style: normal;
   -webkit-transition: background 300ms ease-in-out;
   transition: background 300ms ease-in-out;
 }
-
-
 .button-effect1:hover {
   background-position: 0;
 }
-
 .button-effect2 {
   border-color: #F1F1F1;
   background-image: -webkit-linear-gradient(45deg, #40D47E 50%, transparent 50%);
@@ -249,8 +258,6 @@ font-style: normal;
   -webkit-transition: background 300ms ease-in-out;
   transition: all 300ms ease-in-out;
 }
-
-
 .button-effect2:hover {
   background-position: 0;
   color: #F1F1F1;
@@ -309,5 +316,3 @@ font-style: normal;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-
-

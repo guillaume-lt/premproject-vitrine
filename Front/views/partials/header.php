@@ -11,7 +11,6 @@
 </head>
 <body>
 	<div class="container header">
-		<div class="gradient"></div>
 			<div class="menu">
 				<div class="col-md-4 logo">
 					<a href="<?= URL ?>home">
@@ -40,17 +39,16 @@
                         <li><a href="<?= URL ?>support" class="menu_link">Support</a></li>
                         <li><a href="<?= $navBlog ?>" class="menu_link">Blog</a></li>
                         <li><a href="<?= $navSignin ?>" class="menu_inc button-effect2">Inscription</a></li>
-                        <li><a href="<?= $navLogin ?>" class="menu_co button-effect1">Connection</a></li>
+                        <li><a href="<?= URL ?>login" class="menu_co button-effect1">Connection</a></li>
                     </ul>
     			</div><!-- /.navbar-collapse -->
   			</div><!-- /.container-fluid -->
 		</nav>
 
-		<div class="page_title">	
+		<div class="page_title title_section">	
 			<div class="row">
 				<div class="col-md-12">
 					<?= $sectionTitle ?>
 				</div>
 			</div>
 		</div>
-	</div>

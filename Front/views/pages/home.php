@@ -19,9 +19,9 @@
 
                     <a href="<?= URL ?>login"><span class="btn_home_login">Connection</span></a>
                 </div>
-
-                <div class="video_home">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/QgmKXBlLp8o" frameborder="0" allowfullscreen></iframe>
+                
+                <div class="overlay_video">
+                    <div id="video_home"></div>
                 </div>
 			</div>
 		</div>

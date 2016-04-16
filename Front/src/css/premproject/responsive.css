@@ -36,7 +36,19 @@
 		top: 50%;
 	}
 
-    
+    .login_intro h3 {
+    text-decoration: underline;
+}
+
+    .login_intro h3:before {
+    content:'';
+    display: none;
+}
+
+.login_intro h3:after {
+    content:'';
+     display: none;
+}
 }
 
 @media (max-width: 992px) {

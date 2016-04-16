@@ -1,4 +1,4 @@
 <?php 
 	$title = 'Connection à PremProject';
-	$sectionTitle = ''
+	$sectionTitle = 'Connection'
 ?>

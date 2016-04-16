@@ -7,7 +7,7 @@
     				<br />
     				Et consacrez-vous y pleinement !
     			</h2>
-                <h3>Connection</h3>
+                <h3>Inscription</h3>
                 <form class="login_form">
 
                     <input type="text" class="login_username margin_login" required="true" placeholder="Prénom" />

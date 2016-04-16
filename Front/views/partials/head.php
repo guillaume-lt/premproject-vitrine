@@ -17,6 +17,7 @@
 	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/header.css">
 	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/footer.css">
 	
+	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/home.css">
 	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/cgu.css">
 	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/login.css">
 	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/signin.css">

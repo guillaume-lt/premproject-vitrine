@@ -388,6 +388,7 @@ font-style: normal;
     transform: translateX(-50%);
     margin: 40px auto;
     transition: all 300ms linear;
+    width: 30%;
 }
 
 .login_submit:hover {
@@ -411,6 +412,7 @@ font-style: normal;
     transform: translateX(-50%);
     margin: 40px auto;
     transition: all 300ms linear;
+    width: 30%;
 }
 
 .signin_demand:hover {

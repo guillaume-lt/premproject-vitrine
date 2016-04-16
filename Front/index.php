@@ -14,6 +14,8 @@ else if($q == 'cgv')
 	$page = 'cgv';
 else if($q == 'login')
 	$page = 'login';
+else if($q == 'signin')
+	$page = 'signin';
 else
 	$page = '404';
 

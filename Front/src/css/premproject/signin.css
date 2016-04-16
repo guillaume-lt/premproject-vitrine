@@ -4,6 +4,7 @@
     padding: 15px 100px;
     color: #F1F1F1 !important;
     left: 50%;
+    font-size: 16px;
     position: relative;
     transform: translateX(-50%);
     margin: 40px auto;

@@ -6,7 +6,7 @@ include 'config/options.php';
 $q = empty($_GET['q']) ? '' : $_GET['q'];
 
 // Routes
-if($q == '')
+if($q == 'home')
 	$page = 'home';
 else if($q == 'mentions-legales')
 	$page = 'mentionslegales';

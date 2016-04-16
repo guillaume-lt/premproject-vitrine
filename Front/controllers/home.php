@@ -1,4 +1,5 @@
 <?php 
 
-	$title = 'Mon site';
+	$title = 'PremProject';
 	$class = 'home';
+?>

@@ -237,33 +237,6 @@ font-style: normal;
 	color:  #F1F1F1 !important;
 }
 
-/*.button-effect1 {
-  border-color: #F1F1F1;
-  background-image: -webkit-linear-gradient(45deg, #348AA7 50%, transparent 50%);
-  background-image: linear-gradient(45deg, #348AA7 50%, transparent 50%);
-  background-position: 100%;
-  background-size: 400%;
-  -webkit-transition: background 300ms ease-in-out;
-  transition: background 300ms ease-in-out;
-}
-.button-effect1:hover {
-  background-position: 0;
-}
-.button-effect2 {
-  border-color: #F1F1F1;
-  background-image: -webkit-linear-gradient(45deg, #40D47E 50%, transparent 50%);
-  background-image: linear-gradient(45deg, #40D47E 50%, transparent 50%);
-  background-position: 100%;
-  background-size: 400%;
-  -webkit-transition: background 300ms ease-in-out;
-  transition: all 300ms ease-in-out;
-}
-.button-effect2:hover {
-  background-position: 0;
-  color: #F1F1F1;
-}*/
-
-
 .footer {
 	margin: 0 auto;
 	

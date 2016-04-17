@@ -20,6 +20,8 @@ else if($q == 'product')
 	$page = 'product';
 else if($q == 'developers')
 	$page = 'developers';
+else if($q == 'faq')
+	$page = 'faq';
 else
 	$page = '404';
 

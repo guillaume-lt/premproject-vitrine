@@ -47,6 +47,7 @@
     <script src="<?= URL ?>src/js/app/youtube_iframe.js"></script>
     <script src="<?= URL ?>src/js/app/smooth_scroll.js"></script>
     <script src="<?= URL ?>src/js/app/aside_fixed.js"></script>
+    <script src="<?= URL ?>src/js/app/ajax_form.js"></script>
 	<script src="<?= URL ?>src/js/libs/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 </body>
 </html>

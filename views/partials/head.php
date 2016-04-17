@@ -21,6 +21,7 @@
 	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/cgu.css">
 	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/login.css">
 	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/signin.css">
+	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/faq.css">
 
 	<link rel="stylesheet" href="<?= URL ?>src/css/premproject/responsive.css">
 </head>

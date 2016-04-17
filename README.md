@@ -8,8 +8,8 @@
 ## Make the awesome
 
 #### Installation
-Just [clone](github-windows://openRepo/https://github.com/LeoLeBras/monolytics-client.git) the repo
-and configure the 'options.php' file, he is in config folder
+Il faut juste [clone](github-windows://openRepo/https://github.com/LeoLeBras/monolytics-client.git) le repo
+et configurer le fichier 'options.php', il est dans le dossier config
 ```shell
 $ git clone https://github.com/LeoLeBras/premproject-vitrine.git
 $ cd premproject-vitrine

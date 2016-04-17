@@ -28,11 +28,3 @@
 
 
 </div> <!-- Container gradient end -->
-
-    <div class="container mentions_legales">
-        <div class="content">
-            <div class="row">
-                <div class="col-md-12 mt_lg">
-                </div>
-        </div>
-    </div>

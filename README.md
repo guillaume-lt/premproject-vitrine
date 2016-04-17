@@ -1,5 +1,19 @@
-# Gulp Starter for CSS Tricks Tutorial  
+# premproject-vitrine
+ 🚀 [http://premproject.com](http://premproject.com)
 
-This repo is a gulp starter for this CSS Tricks tutorial. 
+## Besoins
+- PHP
+- MAMP ou WAMP en local
 
-Remember to do run the `npm install` command after cloning this repo :) 
+## Make the awesome
+
+#### Installation
+Just [clone](github-windows://openRepo/https://github.com/LeoLeBras/monolytics-client.git) the repo
+and configure the 'options.php' file, he is in config folder
+```shell
+$ git clone https://github.com/LeoLeBras/premproject-vitrine.git
+$ cd premproject-vitrine
+```
+
+## Problèmes
+Si il y a le moindre problème, vérifiez d'abord la configuration du fichier options.php

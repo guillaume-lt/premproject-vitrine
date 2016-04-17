@@ -35,7 +35,7 @@
 				<div class="col-md-12 mt_lg">
 					<h2 class="section_title">2 - Présentation du site</h2>
 					<p>
-						A finir
+						Premproject est un réseau social pour les entrepreneurs qui intègre des outils de gestions de projet. Il permet à ses utilisateurs (entrepreneurs pour la plupart, mais aussi étudiants ou associations) de gérer des projets en ligne, de collaborer à distance, et surtout de tirer parti du partage de projets entre les membres.
 					</p>
 				</div>
 

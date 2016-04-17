@@ -104,6 +104,8 @@
     transition: all 300ms linear;
     width: 30%;
     font-size: 18px;
+    font-family: 'Gotham', sans-serif;
+	font-weight: 500;
     text-align: center;
 }
 

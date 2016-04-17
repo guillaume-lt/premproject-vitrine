@@ -16,6 +16,8 @@ else if($q == 'login')
 	$page = 'login';
 else if($q == 'signin')
 	$page = 'signin';
+else if($q == 'product')
+	$page = 'product';
 else
 	$page = '404';
 

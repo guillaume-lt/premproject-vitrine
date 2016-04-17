@@ -3,7 +3,7 @@
 			<div class="menu">
 				<div class="col-md-4 logo">
 					<a href="<?= URL ?>home">
-						<img src="<?= URL ?>src/images/logos/logo.png" alt="PremProject">
+						<img src="<?= URL ?>src/images/logos/logo_blanc.png" alt="PremProject">
 					</a>
 				</div>
 			</div>
@@ -20,7 +20,6 @@
 			      </button>
 			    </div>
 
-  
     			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
      				<ul class="nav navbar-nav navbar-right menu_top">
                        	<li><a href="<?= URL ?>product" class="menu_link">Produit</a></li>

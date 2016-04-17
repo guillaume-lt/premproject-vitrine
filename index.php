@@ -21,11 +21,16 @@ else if($q == 'product')
 else
 	$page = '404';
 
-// Includes
 
+if($q == 'home')
+	$top = 'header_home';
+else
+	$top = 'header';
+
+// Includes
 include 'controllers/'.$page.'.php';
 include 'controllers/links.php';
 include 'views/partials/head.php';
-include 'views/partials/header.php';
+include 'views/partials/'.$top.'.php';
 include 'views/pages/'.$page.'.php';
 include 'views/partials/footer.php';

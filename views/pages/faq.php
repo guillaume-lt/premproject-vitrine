@@ -22,7 +22,7 @@
 
  	<div class="content">
 		<div class="row">
-    		<div class="col-md-2 faq_aside">
+    		<div class="col-md-2 faq_aside" id="faq_sidebar">
     			<h2>faq</h2>
     			<nav class="faq_aside_nav">
     				<ul>

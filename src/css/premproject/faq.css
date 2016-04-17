@@ -42,7 +42,8 @@
 
 .faq_aside {
 	position: absolute;
-	text-align: center;
+	text-align: left;
+    margin-left: 15px;
 }
 
 .faq_aside h2 {
@@ -81,3 +82,36 @@
 	left: 240px;
 	width: 80%;
 }
+
+.faq_part h3 {
+	font-family: 'Gotham', sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	color: #40D47E;
+	margin-bottom: 20px;
+}
+
+.faq_part h3:before {
+	content:'';
+	position: absolute;
+    right: 35px;
+    width: 80%;
+    margin-top: 17px;
+    height: 3px;
+    background-color: #40D47E;
+}
+
+.faq_part_content h4 {
+	font-family: 'Gotham', sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	color: #000000;
+	margin-top: 20px;
+}
+
+.faq_part_content p {
+	font-family: 'Gotham', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+}
+

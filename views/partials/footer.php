@@ -19,7 +19,7 @@
 						<li><a href="<?= URL ?>guide">Guide</a></li>
 						<li><a href="<?= URL ?>conseil">Conseil</a></li>
 						<li><a href="<?= URL ?>contact">Nous contacter</a></li>
-						<li><a href="<?= URL ?>dev">Dévelopeurs</a></li>
+						<li><a href="<?= URL ?>developers">Dévelopeurs</a></li>
 					</ul>
 				</div>
 

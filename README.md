@@ -14,7 +14,7 @@
 Il faut juste [clone](github-windows://openRepo/https://github.com/Weblearner/premproject-vitrine.git) le repo
 et configurer le fichier 'options.php', il est dans le dossier config
 ```shell
-$ git clone https://github.com/LeoLeBras/premproject-vitrine.git
+$ git clone https://github.com/Weblearner/premproject-vitrine.git
 $ cd premproject-vitrine
 ```
 

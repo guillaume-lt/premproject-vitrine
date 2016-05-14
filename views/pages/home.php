@@ -37,5 +37,3 @@
 
 
 </div> <!-- Container gradient end -->
-<script src="<?= URL ?>src/js/libs/morphtext.js"></script>
-<script src="<?= URL ?>src/js/app/slider_home.js"></script>

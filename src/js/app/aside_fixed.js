@@ -1,21 +1,22 @@
-$(function() {
-
-    var $sidebar   = $("#faq_sidebar"),
-        $page      = $("body"),
-        $window    = $(window),
-        offset     = $page.offset(),
-        topPadding = 10;
-
-    $window.scroll(function() {
-        if ($window.scrollTop() > offset.top) {
-            $sidebar.stop().animate({
-                marginTop: $window.scrollTop() - offset.top + topPadding
+function moveScroller() {
+    var move = function() {
+        var st = $(window).scrollTop();
+        var ot = $("#faq_anchor").offset().top;
+        var s = $("#faq_sidebar");
+        if(st > ot) {
+            s.css({
+                position: "fixed",
+                top: "-20px"
             });
         } else {
-            $sidebar.stop().animate({
-                marginTop: 0
-            });
+            if(st <= ot) {
+                s.css({
+                    position: "absolute",
+                    top: ""
+                });
+            }
         }
-    });
-    
-});
+    };
+    $(window).scroll(move);
+    move();
+}

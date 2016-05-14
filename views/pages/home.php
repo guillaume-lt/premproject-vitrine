@@ -18,8 +18,17 @@
                     <a href="<?= URL ?>signin"><span class="btn_home_signin">Inscription</span></a>
                 </div>
                 
-                <div class="overlay_video">
-                    <div id="video_home"></div>
+                <div class="slider_intro">
+                    <span class="text_slider">PremProject est </span>
+                    <span id="text_1" class="text_slider">
+                        une compagnie &nbsp;, un projet &nbsp;,  un outil &nbsp;
+                    </span>
+                    <span id="text_2" class="text_slider">
+                         jeune et,pour les &nbsp; ,&nbsp; de gestion &nbsp;
+                    </span>
+                    <span id="text_3" class="text_slider">
+                         innovante.,entrepreneurs.,de projets.
+                    </span>
                 </div>
 			</div>
 		</div>
@@ -28,3 +37,5 @@
 
 
 </div> <!-- Container gradient end -->
+<script src="<?= URL ?>src/js/libs/morphtext.js"></script>
+<script src="<?= URL ?>src/js/app/slider_home.js"></script>

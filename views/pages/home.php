@@ -19,15 +19,29 @@
                 </div>
                 
                 <div class="slider_intro">
-                    <span class="text_slider">PremProject est </span>
-                    <span id="text_1" class="text_slider">
-                        une compagnie &nbsp;, un projet &nbsp;,  un outil &nbsp;
+                    <span class="text_slider">
+                        <ul id="text_title">
+                            <li>PremProject est</li>
+                        </ul>
+                        <ul id="text_1">
+                            <li>une compagnie</li>
+                            <li>un projet</li>
+                            <li>un outil</li>
+                        </ul>
                     </span>
-                    <span id="text_2" class="text_slider">
-                         jeune et,pour les &nbsp; ,&nbsp; de gestion &nbsp;
+                   <span class="text_slider">
+                        <ul id="text_2">
+                            <li>jeune et</li>
+                            <li>pour les</li>
+                            <li>de gestion</li>
+                        </ul>
                     </span>
-                    <span id="text_3" class="text_slider">
-                         innovante.,entrepreneurs.,de projets.
+                    <span class="text_slider">
+                        <ul id="text_3">
+                            <li>innovante.</li>
+                            <li>entrepreneurs.</li>
+                            <li>de projets.</li>
+                        </ul>
                     </span>
                 </div>
 			</div>

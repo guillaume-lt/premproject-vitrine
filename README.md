@@ -39,7 +39,7 @@ Si il y a le moindre problème, vérifiez d'abord la configuration du fichier op
 - [ ] Product - WIP
 - [ ] Abonnement
 - [ ] Guide
-- [ ] Conseil
+- [ ] Kit Presse
 - [ ] Support
 
 

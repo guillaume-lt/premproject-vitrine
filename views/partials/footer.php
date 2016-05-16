@@ -17,9 +17,9 @@
 					<ul>
 						<li><a href="<?= URL ?>faq">FAQ</a></li>
 						<li><a href="<?= URL ?>guide">Guide</a></li>
-						<li><a href="<?= URL ?>conseil">Conseil</a></li>
 						<li><a href="<?= URL ?>contact">Nous contacter</a></li>
 						<li><a href="<?= URL ?>developers">Dévelopeurs</a></li>
+						<li><a href="<?= $navPresse ?>" target="_blank">Kit Presse</a></li>
 					</ul>
 				</div>
 
@@ -29,6 +29,7 @@
 						<li><a href="<?= $navFacebook ?>" target="_blank">Facebook</a></li>
 						<li><a href="<?= $navTwitter ?>" target="_blank">Twitter</a></li>
 						<li><a href="<?= $navYoutube ?>" target="_blank">Youtube</a></li>
+						<li><a href="<?= $navLinkedin ?>" target="_blank">LinkedIn</a></li>
 					</ul>
 				</div>
 			</div>

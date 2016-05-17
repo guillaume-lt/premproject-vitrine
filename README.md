@@ -34,7 +34,7 @@ Si il y a le moindre problème, vérifiez d'abord la configuration du fichier op
 - [x] Header
 - [x] Structure
 - [x] Routing
-- [x] Contact - WIP
+- [x] Contact
 - [ ] Home - WIP
 - [ ] Product - WIP
 - [ ] Abonnement

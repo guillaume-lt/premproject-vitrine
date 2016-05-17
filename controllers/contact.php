@@ -1,4 +1,4 @@
 <?php 
 	$title = 'Contacter PremProject';
-	$sectionTitle = 'Contact'
+	$sectionTitle = 'Contactez-nous !'
 ?>

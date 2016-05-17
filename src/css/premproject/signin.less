@@ -1,3 +1,46 @@
+.signin_intro h2 {
+    color: #F1F1F1;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-size: 28px;
+    font-family: 'Gotham', sans-serif;
+    font-weight: 300;
+}
+
+.signin_intro h3 {
+    position: relative;
+    color: #F1F1F1;
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 22px;
+    font-family: 'Gotham', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.signin_intro h3:before {
+    content:'';
+    position: absolute;
+    width: 150px;
+    height: 2px;
+    left: 30px;
+    top: 10px;
+    background-color: #F1F1F1;
+}
+
+.signin_intro h3:after {
+    content:'';
+    position: absolute;
+    width: 150px;
+    height: 2px;
+    right: 30px;
+    top: 10px;
+    background-color: #F1F1F1;
+}
+
 .signin_demand {
     background-color: transparent;
     border: 2px solid #F1F1F1;
@@ -57,4 +100,37 @@ label {
     font-weight: 500;
     font-size: 14px;
     cursor: pointer;
+}
+
+@media (max-width: 380px) {
+
+.signin_intro h2 {
+    margin-top: 0px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
+.signin_intro h3 {
+    padding-bottom: 0px;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.login_username {
+    width: 70vw;
+}
+
+.login_password {
+    width: 70vw;
+}
+
+label {
+    font-size: 17px;
+}
+
+.login_submit {
+    width: 100%;
+}
+
 }

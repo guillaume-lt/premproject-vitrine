@@ -8,3 +8,5 @@ RewriteRule ^(.*)$ ./index.php?q=$1
 
 AddType text/css .css
 AddType text/css .min.css
+
+AddOutputFilterByType DEFLATE text/html text/xml application/xhtml+xml text/plain application/javascript text/css

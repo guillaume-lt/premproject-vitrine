@@ -1,7 +1,7 @@
 <div class="container ">
     <div class="content">
     	<div class="row">
-    		<div class="col-md-12 login_intro">
+    		<div class="col-md-12 signin_intro">
     			<h2>
         			Créez dès maintenant votre projet
     				<br />

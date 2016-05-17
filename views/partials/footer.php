@@ -44,17 +44,10 @@
 		</div>
 	</div>
 
-    <script src="<?= URL ?>src/js/libs/jquery.min.js"></script>
-    <script src="<?= URL ?>src/js/app/aside_fixed.js"></script>
     <script src="<?= URL ?>src/js/app/youtube_iframe.js"></script>
     <script src="<?= URL ?>src/js/app/morphtext.js"></script>
 	<script src="<?= URL ?>src/js/app/slider_home.js"></script>
     <script src="<?= URL ?>src/js/app/smooth_scroll.js"></script>
 	<script src="<?= URL ?>src/js/libs/bootstrap.min.js"></script>
-	<script type="text/javascript"> 
-  $(function() {
-    moveScroller();
-  });
-</script> 
 </body>
 </html>

@@ -10,4 +10,6 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
 	<link rel="stylesheet/less" type="text/css" href="<?= URL ?>src/css/styles.less">
 	<script src="<?= URL ?>src/js/libs/less.js" type="text/javascript"></script>
+	<script src="<?= URL ?>src/js/libs/jquery.min.js"></script>
+    <script src="<?= URL ?>src/js/app/aside_fixed.js"></script>
 </head>

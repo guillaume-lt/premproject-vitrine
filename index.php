@@ -28,6 +28,8 @@ else if($q == 'contact')
 	$page = 'contact';
 else if($q == 'presse')
 	$page = 'presse';
+else if($q == 'support')
+	$page = 'support';
 else
 	$page = '404';
 

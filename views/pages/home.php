@@ -13,6 +13,7 @@
                     <br />
                     passez plus de temps à créer votre projet
                 </h3>
+                perdez moins de temps sur votre organisation et prenez plus de temps pour créer votre projet.
                 
                 <div class="btn_home">
                     <a href="<?= URL ?>signin"><span class="btn_home_signin">Inscription</span></a>

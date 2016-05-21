@@ -27,7 +27,7 @@
                         <li><a href="<?= URL ?>support" class="menu_link">Support</a></li>
                         <li><a href="<?= $navBlog ?>" class="menu_link">Blog</a></li>
                         <li><a href="<?= URL ?>signin" class="menu_inc button-effect2">Inscription</a></li>
-                        <li><a href="<?= URL ?>login" class="menu_co button-effect1">Connexion</a></li>
+                        <li><a href="<?= URL ?>login" class="menu_co button-effect1">Connection</a></li>
                     </ul>
     			</div><!-- /.navbar-collapse -->
   			</div><!-- /.container-fluid -->

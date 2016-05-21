@@ -18,7 +18,7 @@
                 
                 <div class="btn_home">
                     <a href="<?= URL ?>contact"><span class="btn_home_signin">Contactez-nous</span></a>
-                    <a href="<?= URL ?>special"><span class="btn_home_login">Devis spécial</span></a>
+                    <a href="<?= URL ?>contact"><span class="btn_home_login">Devis spécial</span></a>
                 </div>
                 
                 <div class="overlay_video">

@@ -19,7 +19,7 @@
 						<li><a href="<?= URL ?>guide">Guide</a></li>
 						<li><a href="<?= URL ?>contact">Nous contacter</a></li>
 						<li><a href="<?= URL ?>developers">Dévelopeurs</a></li>
-						<li><a href="<?= $navPresse ?>" target="_blank">Kit Presse</a></li>
+						<li><a href="<?= URL ?>presse">Presse</a></li>
 					</ul>
 				</div>
 

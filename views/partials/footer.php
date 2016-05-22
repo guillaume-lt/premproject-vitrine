@@ -6,7 +6,7 @@
 					<ul>
 						<li><a href="<?= URL ?>product">Produit</a></li>
 						<li><a href="<?= URL ?>abonnement">Abonnement</a></li>
-						<li><a href="<?= URL ?>blog">Blog</a></li>
+						<li><a href="<?= $navBlog ?>">Blog</a></li>
 						<li><a href="<?= URL ?>mentions-legales">Mentions légales</a></li>
 						<li><a href="<?= URL ?>cgv">CGV</a></li>
 					</ul>

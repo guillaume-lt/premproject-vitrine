@@ -199,11 +199,76 @@ a .btn_tutos:hover {
 	text-decoration: none !important;
 }
 
-
 .tips_support {
 	background-color: #F6F6F6;
 	padding-bottom: 35px;
-	padding-top: 35px;
+	padding-top: 20px;
+}
+
+.content_tips_support {
+	width: 70vw;
+    position: relative;
+    height: auto;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.content_tips_support h3 {
+	font-size: 28px;
+	font-family: 'Gotham', sans-serif;
+	font-weight: 500;
+	color: #40D47E !important;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.tips_nb {
+	display: inline-block;
+	width: 17vw;
+	border: 1px solid #40D47E;
+  	border-radius: 10px;
+  	padding: 15px 20px;
+  	opacity: 0.6;
+  	transition: all 200ms linear;
+}
+
+.tips_nb:hover {
+	display: inline-block;
+	width: 17vw;
+	border: 1px solid #40D47E;
+  	border-radius: 10px;
+  	padding: 15px 20px;
+  	opacity: 1;
+}
+
+.tips_nb_left {
+	display: inline;
+	float: left;
+	width: 3vw;
+}
+
+.tips_nb_left i {
+	font-size: 40px;
+	color: #40D47E;
+	line-height: 95px;
+}
+
+.tips_nb_right {
+	display: inline;
+	float: right;
+	width: 10vw;
+}
+
+.tips_nb_right span {
+	font-family: 'Gotham', sans-serif;
+	font-weight: 500;
+	font-size: 14px;
+}
+
+.tips_nb_right p {
+	font-family: 'Gotham', sans-serif;
+	font-weight: 300;
+	font-size: 12px;
 }
 
 .guide_support:hover .path {
@@ -229,3 +294,49 @@ a .btn_tutos:hover {
   }
 }
 
+@media (max-width: 780px) {
+
+.guide_support {
+    display: block;
+    width: 100%;
+}
+
+.border_support {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-right: none;
+}
+
+#book_support {
+    width: 25vw;
+}
+
+#clavier_support {
+    width: 25vw;
+}
+
+.guide_support p {
+    width: 100%;
+}
+
+a .btn_help {
+    width: 100%;
+}
+
+.tutos_nb_left {
+	display: none;
+}
+
+.tutos_nb_right p {
+    width: 100%;
+}
+
+a .btn_tutos {
+    width: 100%;
+}
+
+.tips_nb {
+    display: block;
+    width: 70vw;
+}
+
+}

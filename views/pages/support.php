@@ -119,7 +119,7 @@
     					<div class="tips_nb_right">
     						<span>Vue Circulaire</span>
     						<p>
-    							Cette vue permet d'appréhender votre projet de manière visuelle.
+    							Cette vue permet d'appréhender votre projet de manière visuelle et intuitive.
     						</p>
     					</div>
     				</div>
@@ -130,7 +130,7 @@
     					<div class="tips_nb_right">
     						<span>Vue Agile</span>
     						<p>
-    							Cette vue permet d'organiser au mieux son travail, selon l'importance de chaque action.
+    							Cette vue permet d'organiser son travail selon l'importance de chaque action.
     						</p>
     					</div>
     				</div>

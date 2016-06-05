@@ -16,7 +16,7 @@
 					<h2 class="footer_title">Support</h2>
 					<ul>
 						<li><a href="<?= URL ?>faq">FAQ</a></li>
-						<li><a href="<?= URL ?>guide">Guide</a></li>
+						<li><a href="<?= URL ?>support">Support</a></li>
 						<li><a href="<?= URL ?>contact">Nous contacter</a></li>
 						<li><a href="<?= URL ?>developers">Dévelopeurs</a></li>
 						<li><a href="<?= URL ?>presse">Presse</a></li>

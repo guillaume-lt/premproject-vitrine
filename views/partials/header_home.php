@@ -23,7 +23,7 @@
     			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
      				<ul class="nav navbar-nav navbar-right menu_top">
                        	<li><a href="<?= URL ?>product" class="menu_link">Produit</a></li>
-                        <li><a href="<?= URL ?>abonnement" class="menu_link">Abonnement</a></li>
+                        <li><a href="<?= URL ?>pricing" class="menu_link">Abonnement</a></li>
                         <li><a href="<?= URL ?>support" class="menu_link">Support</a></li>
                         <li><a href="<?= $navBlog ?>" class="menu_link">Blog</a></li>
                         <li><a href="<?= URL ?>login" class="menu_co button-effect1">Connection</a></li>

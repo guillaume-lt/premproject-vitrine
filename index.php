@@ -30,6 +30,8 @@ else if($q == 'presse')
 	$page = 'presse';
 else if($q == 'support')
 	$page = 'support';
+else if($q == 'pricing')
+	$page = 'pricing';
 else
 	$page = '404';
 

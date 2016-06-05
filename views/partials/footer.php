@@ -5,7 +5,7 @@
 					<h2 class="footer_title">PremProject</h2>
 					<ul>
 						<li><a href="<?= URL ?>product">Produit</a></li>
-						<li><a href="<?= URL ?>abonnement">Abonnement</a></li>
+						<li><a href="<?= URL ?>pricing">Abonnement</a></li>
 						<li><a href="<?= $navBlog ?>">Blog</a></li>
 						<li><a href="<?= URL ?>mentions-legales">Mentions légales</a></li>
 						<li><a href="<?= URL ?>cgv">CGV</a></li>

@@ -3,17 +3,37 @@
         <div class="row">
             <div class="col-md-12 home_intro">
                 <h2>
-                    Un outil pouvant s'adapter à vos besoins,
-                    <br />
-                    et répondre à toutes vos attentes.
+                    <div class="intro_home">
+                        <span class="word word_1">
+                            Perdez moins
+                        </span>
+                        <span class="word word_2">
+                            de temps 
+                        </span>
+                        <span class="word word_3">
+                            sur votre 
+                        </span>
+                        <span class="word word_4">
+                            organisation et
+                        </span>
+                        <span class="word word_5">
+                            prenez plus 
+                        </span>
+                        <span class="word word_6">
+                            de temps 
+                        </span>
+                        <span class="word word_7">
+                            pour créer 
+                        </span>
+                        <span class="word word_8">
+                            votre projet.
+                        </span>
+                    </div>
                 </h2>
 
                 <h3>
-                    Ajoutez des modules spécifiques selon vos besoins,
-                    <br />
-                    Ayez un espace de travail propre à votre marque, ou à
-                    <br />
-                    votre entreprise.
+                    Les vrais projets se construisent à plusieurs. <br />
+                    Aidés par ceux qui nous ont précédés.
                 </h3>
                 
                 <div class="btn_home">
@@ -108,8 +128,6 @@
                                 <span>Conseil pour votre projet</span>
                             </li>
                         </ul>
-                        
-                        <a href="<?= URL ?>contact"><span class="btn_home_signin">Commencez !</span></a>
                     </div>
 
                     <div class="content_img">
@@ -121,13 +139,32 @@
                                   <div class="program__bar-dot program__bar-dot--close"></div>
                                   <div class="program__bar-dot program__bar-dot--minimize"></div>
                                   <div class="program__bar-dot program__bar-dot--maximize"></div>
-                                  <img class="program__img"src="<?= URL ?>src/images/home/prem_tool.png" alt="Interface de PremProject"/>
+                                  <img class="program__img" src="<?= URL ?>src/images/home/prem_tool.png" alt="Interface de PremProject"/>
                                 </div>
                               </div>
                             </div>
                           </div>
                           <div class="macbook__body"></div>      
                           <div class="macbook__body-bottom"></div>
+                        </div>
+                    </div>
+
+                    <div class="clear"></div>
+
+                    <div class="content_quote">
+                        <div class="btn_home_outil">
+                            <a href="<?= URL ?>login" target="_blank">
+                                <span class="btn_start_outil">
+                                    Commencez !
+                                </span>
+                            </a>
+
+                            <span class="info_btn_home">
+                                Pour toutes informations supplémentaires, rendez-vous ici : 
+                                <a class="info_link_home" href="<?= URL ?>product">
+                                    Découvrez notre produit !
+                                </a>
+                            </span>
                         </div>
                     </div>
                 </div>
@@ -141,8 +178,19 @@
     <div class="content">
         <div class="row">
             <div class="col-md-12 mt_lg">
-                <div class="content_info_support">
-                    <h3>Nos clients</h3>
+                <div class="content_home_client">
+                    <h3>Nos Partenaires</h3>
+                     <a href="http://stratejic.fr/" target="_blank">
+                        <img class="partners_img" src="<?= URL ?>src/images/partners/stratejic.png" alt="Stratejic, junior entreprise"/>
+                    </a>
+
+                    <a href="https://www.secourspopulaire.fr/" target="blank">
+                        <img class="partners_img" src="<?= URL ?>src/images/partners/secours_pop.png" alt="Le Secour Populaire"/>
+                    </a>
+
+                    <a href="http://www.vauclusedeveloppement.com/" target="blank">
+                        <img class="partners_img" src="<?= URL ?>src/images/partners/vaucluse.png" alt="Vaucluse développement"/>
+                    </a>
                 </div>
             </div>
         </div>
@@ -150,11 +198,22 @@
 </div>
 
 
-<div class="container home_partenaires">
+<div class="container home_presse">
     <div class="content">
         <div class="row">
-            <div class="col-md-12 mt_lg">
-                <div class="content_info_support">
+            <div class="col-md-12">
+                <div class="content_presse_client">
+                 <h3>La presse parle de nous !</h3>
+                    <div class="article">
+                        <p>
+                            « À travers son outil, la start-up défend un monde de créativité et de collaboration, et se donne pour mission d’aider chacun à réaliser ses rêves. Solidaire, volontaire, imaginative et prête à sortir des sentiers battus, la jeune équipe ne manque pas d’ambition.»
+                        </p>
+                        <p>
+                            <a href="http://www.vauclusedeveloppement.com/actualites/630-premproject,-le-r%C3%A9seau-d-entrepreneurs-voit-le-jour-dans-le-vaucluse" target="_blank">Vaucluse developpement - Mai 2016</a>
+                            /
+                            <a href="<?= URL ?>presse">Espace Presse</a>
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>

@@ -186,8 +186,81 @@
 }
 
 .pricing_asso {
-  background-color: #F4A259;
+  background-color: #3DB1FF;
   padding-bottom: 10px;
   padding-top: 20px;
   margin: 0 auto;
+}
+
+.content_pricing_asso {
+    width: 70vw;
+    position: relative;
+    height: auto;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.content_pricing_asso h3 {
+    color: #F6F6F6 !important;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.content_pricing_asso h3:after {
+	content:'';
+	width: 100px;
+	height: 3px;
+	background-color: #F6F6F6;
+	position: absolute;
+  	top: 35px;
+  	left: 50%;
+  	transform: translateX(-50%);
+}
+
+.content_pricing_asso .article {
+	width: 45vw;
+	float: right;
+	margin-right: 100px;
+	display: inline;
+	color: #F6F6F6;
+	font-size: 20px;
+}
+
+.content_pricing_asso .article p {
+	padding: 15px 0px;
+}
+
+.article_img {
+	width: 20vw;
+    float: left;
+    display: inline;
+    margin-left: -50px;
+}
+
+@media (max-width: 780px) { 
+
+.article_img {
+    width: 70vw;
+    float: left;
+    display: inline;
+    margin: 0 auto;
+}
+
+.article_img svg {
+	width: 50%;
+    margin: 0 auto;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.content_pricing_asso .article {
+    width: 65vw;
+    float: none;
+    margin-right: 0px;
+    display: block;
+    color: #F6F6F6;
+    font-size: 20px;
+}
+
 }

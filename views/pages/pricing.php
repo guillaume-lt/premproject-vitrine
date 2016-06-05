@@ -116,16 +116,31 @@
     <div class="content">
         <div class="row">
             <div class="col-md-12">
-                <div class="content_presse_client">
-                 <h3>La presse parle de nous !</h3>
+                <div class="content_pricing_asso">
+                 <h3>Offres spéciales</h3>
+
+                    <div class="article_img">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"><g><path fill="#2196F3" d="M45.278,79.026c0,0,4.889-19.079-5.371-29.046C29.648,40.015,21.521,34.927,18.21,35.334   c-3.583,0.44,5.012,7.015,6.195,13.046c-7.258-3.077-11.619-8.125-13.741-14.029C8.541,28.443,2.868,18.214,0.405,21.67   c-1.517,2.127,1.645,2.586,2.709,10.095c1.067,7.502,4.604,22.522,18.871,28.061C36.251,65.361,45.865,75.454,45.278,79.026z"></path><path fill="#2196F3" d="M54.723,79.026c0,0-4.889-19.079,5.371-29.046c10.26-9.966,18.387-15.054,21.697-14.646   c3.584,0.44-5.012,7.015-6.195,13.046c7.258-3.077,11.619-8.125,13.741-14.029c2.124-5.908,7.796-16.137,10.259-12.681   c1.517,2.127-1.646,2.586-2.709,10.095c-1.066,7.502-4.604,22.522-18.87,28.061C63.75,65.361,54.136,75.454,54.723,79.026z"></path></g></svg>
+                    </div>
+
                     <div class="article">
                         <p>
-                            « À travers son outil, la start-up défend un monde de créativité et de collaboration, et se donne pour mission d’aider chacun à réaliser ses rêves. Solidaire, volontaire, imaginative et prête à sortir des sentiers battus, la jeune équipe ne manque pas d’ambition.»
+                            PremProject, via son outil souhaite aider les associations, les organisations à but non lucratif et les établissements d'enseignement en proposant des offres spéciales.
                         </p>
                         <p>
-                            <a href="http://www.vauclusedeveloppement.com/actualites/630-premproject,-le-r%C3%A9seau-d-entrepreneurs-voit-le-jour-dans-le-vaucluse" target="_blank">Vaucluse developpement - Mai 2016</a>
-                            /
-                            <a href="<?= URL ?>presse">Espace Presse</a>
+                            PremProject est gratuit pour les associations caritatives, souhaitant profiter d'un outil performant pour faciliter la coordination, l'échange, la plannification et le partage.
+                        </p>
+                        <p>
+                            Une réduction est proposée aux étudiants souhaitant utiliser l'outil pour des projets scolaires ou personnels durant leurs cursus.
+                            Des partenariats avec des établissements sont envisageables pour bénéficier de réductions plus importantes.
+                        </p>
+                         <a href="http://stratejic.fr/" target="_blank">
+                            <img class="partners_img" src="<?= URL ?>src/images/partners/stratejic.png" alt="Stratejic, junior entreprise"/>
+                        </a>
+
+                        <a href="https://www.secourspopulaire.fr/" target="blank">
+                            <img class="partners_img" src="<?= URL ?>src/images/partners/secours_pop.png" alt="Le Secour Populaire"/>
+                        </a>
                         </p>
                     </div>
                 </div>

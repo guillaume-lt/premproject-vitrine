@@ -35,7 +35,7 @@ Si il y a le moindre problème, vérifiez d'abord la configuration du fichier op
 - [x] Structure
 - [x] Routing
 - [x] Contact
-- [x ] Home
+- [x] Home
 - [ ] Product - WIP
 - [x] Abonnement
 - [ ] Tableau des prix et fonctionnalitées
@@ -45,9 +45,10 @@ Si il y a le moindre problème, vérifiez d'abord la configuration du fichier op
 - [ ] Link login/signin bdd
 - [ ] Link pricing form
 - [ ] Optimisation css
-- [ ] Optimisation image
+- [x] Optimisation image
 - [ ] Optimisation script
 - [ ] Optimisation seo
-- [ ] Optimisation performance
+- [x] Optimisation performance
+- [x] Optimisation responsive
 
 

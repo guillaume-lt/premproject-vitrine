@@ -1,7 +1,7 @@
 <div class="container ">
     <div class="content">
     	<div class="row">
-    		<div class="col-md-12 home_intro">
+    		<div class="col-md-12 dev_intro">
     			<h2>
         			Un outil pouvant s'adapter à vos besoins,
     				<br />

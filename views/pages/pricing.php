@@ -20,7 +20,7 @@
                     <div class="pricing_price">0<span class="pricing_currency">€</span></div>
                     <p class="pricing_sentence">Gratuit pour toujours</p>
                     <ul class="pricing_feature-list">
-                        <li class="pricing_feature">3 personnes par projet</li>
+                        <li class="pricing_feature">5 personnes par projet</li>
                         <li class="pricing_feature">Vue circulaire</li>
                         <li class="pricing_feature">Vue agile</li>
                         <li class="pricing_feature">Partage de projet</li>
@@ -37,9 +37,7 @@
                         <li class="pricing_feature">Vue Gantt</li>
                         <li class="pricing_feature">10 personnes par projet</li>
                         <li class="pricing_feature">Page Pro</li>
-                        <li class="pricing_feature">Branding</li>
-                        <li class="pricing_feature">Mise en avant du projet</li>
-                        <li class="pricing_feature">Suggestions d'objectifs quotidiens</li>
+                        <li class="pricing_feature">Mise en avant du projet</li>Ò
 
                     </ul>
                     <button class="pricing_action perf_btn">Choisir ce plan</button>
@@ -49,10 +47,9 @@
                     <div class="pricing_price">30<span class="pricing_currency">€</span></div>
                     <p class="pricing_sentence">Un outil complet</p>
                     <ul class="pricing_feature-list">
-                        <li class="pricing_feature">Avantages plan Start-up</li>
+                        <li class="pricing_feature">Avantages plan Performance</li>
                         <li class="pricing_feature">30 personnes par projet</li>
                         <li class="pricing_feature">Recherche par compétences</li>
-                        <li class="pricing_feature">Recherche par affinités</li>
                     </ul>
                     <button class="pricing_action pro_btn">Choisir ce plan</button>
                 </div>
@@ -136,10 +133,6 @@
                         </p>
                          <a href="http://stratejic.fr/" target="_blank">
                             <img class="partners_img" src="<?= URL ?>src/images/partners/stratejic.png" alt="Stratejic, junior entreprise"/>
-                        </a>
-
-                        <a href="https://www.secourspopulaire.fr/" target="blank">
-                            <img class="partners_img" src="<?= URL ?>src/images/partners/secours_pop.png" alt="Le Secour Populaire"/>
                         </a>
                         </p>
                     </div>

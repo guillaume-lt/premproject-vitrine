@@ -9,7 +9,7 @@
 	$navFacebook = 'https://www.facebook.com/premproject/';
 	$navTwitter = 'https://twitter.com/premproject';
 	$navYoutube = 'https://www.youtube.com/channel/UCBL0a0Y7_a8d9vyHE8RC8SQ?nohtml5=False';
-	$navTwitter = '#';
+	$navLinkedin = 'https://www.linkedin.com/company/premproject';
 
 	// Blog
 	$navBlog = 'http://blog.premproject.com/'

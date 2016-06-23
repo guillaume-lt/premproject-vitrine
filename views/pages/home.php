@@ -37,8 +37,8 @@
                 </h3>
                 
                 <div class="btn_home">
-                    <a href="<?= URL ?>contact"><span class="btn_home_signin">Inscription</span></a>
-                    <a href="<?= URL ?>contact"><span class="btn_home_login">Connection</span></a>
+                    <a href="<?= URL ?>signin"><span class="btn_home_signin">Inscription</span></a>
+                    <a href="<?= URL ?>login"><span class="btn_home_login">Connection</span></a>
                 </div>
                 
             </div>

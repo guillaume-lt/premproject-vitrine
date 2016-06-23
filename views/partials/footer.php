@@ -15,7 +15,6 @@
 				<div class="col-md-4 footer_nav f_center">
 					<h2 class="footer_title">Support</h2>
 					<ul>
-						<li><a href="<?= URL ?>faq">FAQ</a></li>
 						<li><a href="<?= URL ?>support">Support</a></li>
 						<li><a href="<?= URL ?>contact">Nous contacter</a></li>
 						<li><a href="<?= URL ?>developers">Dévelopeurs</a></li>

@@ -36,18 +36,18 @@ Si il y a le moindre problème, vérifiez d'abord la configuration du fichier op
 - [x] Routing
 - [x] Contact
 - [x] Home
-- [ ] Product - WIP
+- [x] Product
 - [x] Abonnement
 - [ ] Tableau des prix et fonctionnalitées
 - [x] Guide
 - [x] Kit Presse
 - [x] Support
-- [ ] Link login/signin bdd
-- [ ] Link pricing form
-- [ ] Optimisation css
+- [x] Link login/signin bdd
+- [x] Link pricing form
+- [x] Optimisation css
 - [x] Optimisation image
-- [ ] Optimisation script
-- [ ] Optimisation seo
+- [x] Optimisation script
+- [ ] Optimisation seo - WIP
 - [x] Optimisation performance
 - [x] Optimisation responsive
 

@@ -2,7 +2,7 @@
 
 	include 'config/options.php';
 
-	$title = 'Contacter PremProject';
+	$title = 'PremProject : Nous contacter';
 	$sectionTitle = 'Contactez-nous !';
 
 	include 'controllers/links.php';

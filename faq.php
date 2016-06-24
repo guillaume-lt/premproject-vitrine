@@ -2,7 +2,7 @@
 	
 	include 'config/options.php';
 
-	$title = 'FAQ de PremProject';
+	$title = 'PremProject : Foire aux questions';
 	$sectionTitle = 'Foire aux questions';
 
 	include 'controllers/links.php';

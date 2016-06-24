@@ -2,7 +2,7 @@
 	
 	include 'config/options.php';
 
-	$title = 'S\'inscrire à PremProject';
+	$title = 'PremProject : S\'inscrire';
 	$sectionTitle = 'S\'inscrire';
 
 	include 'controllers/links.php';

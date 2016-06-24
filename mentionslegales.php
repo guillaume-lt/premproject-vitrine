@@ -2,7 +2,7 @@
 	
 	include 'config/options.php';
 
-	$title = 'Mentions légales de PremProject';
+	$title = 'PremProject : Mentions légales';
 	$sectionTitle = 'Nos mentions légales';
 
 	include 'controllers/links.php';

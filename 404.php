@@ -2,7 +2,7 @@
 
 	include 'config/options.php';
 
-	$title = 'Soon...';
+	$title = 'PremProject : Soon';
 	$sectionTitle = 'Soon...';
 
 	include 'controllers/links.php';

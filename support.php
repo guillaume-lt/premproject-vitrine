@@ -2,7 +2,7 @@
 
 	include 'config/options.php';
 
-	$title = 'Support de PremProject';
+	$title = 'PremProject : Support';
 	$sectionTitle = 'Support';
 
 	include 'controllers/links.php';

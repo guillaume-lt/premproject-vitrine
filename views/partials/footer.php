@@ -43,11 +43,11 @@
 		</div>
 	</div>
 
-    <script src="<?= URL ?>src/js/app/youtube_iframe.js"></script>
-    <script src="<?= URL ?>src/js/app/open_computer.js"></script>
-    <script src="<?= URL ?>src/js/app/morphtext.js"></script>
-	<script src="<?= URL ?>src/js/app/slider_home.js"></script>
-    <script src="<?= URL ?>src/js/app/smooth_scroll.js"></script>
-	<script src="<?= URL ?>src/js/libs/bootstrap.min.js"></script>
+    <script async src="<?= URL ?>src/js/app/youtube_iframe.js"></script>
+    <script async src="<?= URL ?>src/js/app/open_computer.js"></script>
+    <script async src="<?= URL ?>src/js/app/morphtext.js"></script>
+	<script async src="<?= URL ?>src/js/app/slider_home.js"></script>
+    <script async src="<?= URL ?>src/js/app/smooth_scroll.js"></script>
+	<script async src="<?= URL ?>src/js/libs/bootstrap.min.js"></script>
 </body>
 </html>

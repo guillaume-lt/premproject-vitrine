@@ -2,7 +2,7 @@
 	<div class="container header">
 			<div class="menu">
 				<div class="col-md-4 logo">
-					<a href="<?= URL ?>home">
+					<a href="<?= URL ?>">
 						<img src="<?= URL ?>src/images/logos/logo_blanc.png" alt="PremProject">
 					</a>
 				</div>

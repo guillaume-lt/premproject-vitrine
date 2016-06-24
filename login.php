@@ -2,7 +2,7 @@
 	
 	include 'config/options.php';
 
-	$title = 'Connection à PremProject';
+	$title = 'PremProject : Connexion';
 	$sectionTitle = 'Connection';
 
 	include 'controllers/links.php';

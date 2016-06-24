@@ -2,7 +2,7 @@
 
 	include 'config/options.php';
 
-	$title = 'On parle de nous !';
+	$title = 'PremProject : On parle de nous !';
 	$sectionTitle = 'Presse';
 
 	include 'controllers/links.php';

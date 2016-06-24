@@ -53,10 +53,10 @@
             <div class="col-md-12">
                 <div class="content_home_solution">
                     <h3>Nos solutions</h3>
-                    <p>
+                    <h1>
                         PremProject vous accompagne dans l'organisation de votre projet. <br />
                         Augmentez votre productivité et suivez vos objectifs !
-                    </p>
+                    </h1>
                     <div class="tips_solution">       
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"><g><path fill="#000000" d="M40.997,17.492c-2.292,0-4.165,1.899-4.165,4.163v18.021c0,2.291,1.873,4.163,4.165,4.163h8.22v5.364H31.1   c-2.293,0-4.193,1.872-4.193,4.163v2.822h-8.248c-2.293,0-4.166,1.872-4.166,4.163v18.021c0,2.291,1.873,4.136,4.166,4.136h18.033   c2.293,0,4.166-1.845,4.166-4.136V60.352c0-2.291-1.873-4.163-4.166-4.163H28.5v-2.822c0-1.453,1.146-2.57,2.6-2.57h37.828   c1.454,0,2.601,1.117,2.601,2.57v2.822h-8.192c-2.292,0-4.165,1.872-4.165,4.163v18.021c0,2.291,1.873,4.136,4.165,4.136H81.37   c2.292,0,4.138-1.845,4.138-4.136V60.352c0-2.291-1.846-4.163-4.138-4.163h-8.276v-2.822c0-2.291-1.873-4.163-4.166-4.163H50.783   v-5.364h8.247c2.293,0,4.166-1.872,4.166-4.163V21.655c0-2.264-1.873-4.163-4.166-4.163H40.997L40.997,17.492z M40.997,19.084   H59.03c1.427,0,2.572,1.146,2.572,2.571v18.021c0,1.453-1.146,2.599-2.572,2.599H40.997c-1.454,0-2.601-1.146-2.601-2.599V21.655   C38.396,20.229,39.543,19.084,40.997,19.084L40.997,19.084z M18.658,57.781h18.033c1.426,0,2.572,1.117,2.572,2.57v18.021   c0,1.453-1.146,2.571-2.572,2.571H18.658c-1.454,0-2.6-1.118-2.6-2.571V60.352C16.058,58.898,17.204,57.781,18.658,57.781   L18.658,57.781z M63.336,57.781H81.37c1.453,0,2.572,1.117,2.572,2.57v18.021c0,1.453-1.119,2.571-2.572,2.571H63.336   c-1.453,0-2.572-1.118-2.572-2.571V60.352C60.764,58.898,61.883,57.781,63.336,57.781L63.336,57.781z"></path></g></svg>
                         <h4>Organisation</h4>
@@ -139,7 +139,7 @@
                                   <div class="program__bar-dot program__bar-dot--close"></div>
                                   <div class="program__bar-dot program__bar-dot--minimize"></div>
                                   <div class="program__bar-dot program__bar-dot--maximize"></div>
-                                  <img class="program__img" src="<?= URL ?>src/images/home/prem_tool.png" alt="Interface de PremProject"/>
+                                  <img class="program__img" src="http://commit.guillaumelebelt.fr/prem/src/images/home/prem_project.png" alt="Interface de PremProject"/>
                                 </div>
                               </div>
                             </div>

@@ -2,7 +2,7 @@
 
 	include 'config/options.php';
 
-	$title = 'PremProject - Devis spéciaux';
+	$title = 'PremProject : Devis spéciaux';
 	$class = 'developers';
 
 	include 'controllers/links.php';

@@ -2,7 +2,7 @@
 
 	include 'config/options.php';
 
-	$title = 'Notre Produit';
+	$title = 'PremProject : Notre produit';
 	$class = 'product';
 
 	include 'controllers/links.php';

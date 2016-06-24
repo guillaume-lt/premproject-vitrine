@@ -2,7 +2,7 @@
 
 	include 'config/options.php';
 
-	$title = 'Abonnements';
+	$title = 'PremProject : Nos abonnements';
 	$sectionTitle = 'Nos Abonnements !';
 
 	include 'controllers/links.php';

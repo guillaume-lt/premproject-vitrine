@@ -7,14 +7,14 @@
     				<br />
     				Rejoignez-le dès maintenant
     			</h2>
-                <h3>Connection</h3>
+                <h3>Connexion</h3>
                 <form class="login_form">
 
                     <input type="email" class="login_username" required="true" placeholder="Mail" />
 
                     <input type="password" class="login_password margin_login" required="true" placeholder="Mot de passe" />
 
-                    <input type="submit" name="Login" value="Connection >" class="login_submit" />
+                    <input type="submit" name="Login" value="Connexion >" class="login_submit" />
 
                     <a href="#">Mot de passe oublié ?</a>
 

@@ -1,15 +1,5 @@
-Options +FollowSymLinks
 RewriteEngine On
- 
-# Allow any files or directories that exist to be displayed directly
-RewriteCond ${REQUEST_URI} ^.+$
-RewriteCond %{REQUEST_FILENAME} \.(gif|jpe?g|png|js|css|swf|php|ico|txt|pdf|xml)$ [OR]
-RewriteCond %{REQUEST_FILENAME} -f [OR]
-RewriteCond %{REQUEST_FILENAME} -d [OR]
-RewriteCond %{REQUEST_FILENAME} -l
-RewriteRule ^ - [L]
- 
-RewriteRule ^(.*)$ ./index.php?q=$1
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
-AddType text/css .css
-AddType text/css .min.css
+ErrorDocument 404 /404.php

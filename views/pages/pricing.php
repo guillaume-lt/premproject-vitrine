@@ -77,7 +77,7 @@
                                 <br />
                                 Notre Outil est gratuit aussi longtemps que vous le souhaitez !
                             </p>
-                            <a href="<?= URL ?>login"><span class="btn_tutos">Connection</span></a>
+                            <a href="<?= URL ?>login"><span class="btn_tutos">Connexion</span></a>
                         </div>
                     </div>
                 </div>
